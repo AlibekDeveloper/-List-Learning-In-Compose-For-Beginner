@@ -1,0 +1,19 @@
+<resources>
+<string name="app_name">Android Course Heroes</string>
+    
+<string name="hero_title_1">Nick the Night and Day</string>
+<string name="hero_title_2">Reality Protector</string>
+<string name="hero_title_3">Andre the Giant</string>
+<string name="hero_title_4">Benjamin the Brave</string>
+<string name="hero_title_5">Magnificent Mari</string>
+<string name="hero_title_6">Dynamic Yasmine</string>
+
+<string name="hero_desc_1">The jetpack hero</string>
+<string name="hero_desc_2">Understands the absolute truth</string>
+<string name="hero_desc_3">Mimics the light and night to blend in</string>
+<string name="hero_desc_4">Harnesses the power of canary to develop bravely</string>
+<string name="hero_desc_5">Effortlessly glides in to save  the day</string>
+<string name="hero_desc_6">Ability to shift to any form and energize</string>
+
+</resources>
+
